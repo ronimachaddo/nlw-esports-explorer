@@ -7,7 +7,7 @@
 Projeto contruido no evento Next Level Week da RocketSeat.
 
 
-[🔗 Clique aqui e acesse](http://ronimachaddo.github.io/nlw-esports-explorer)
+[🔗 Clique aqui e acesse!](http://ronimachaddo.github.io/nlw-esports-explorer)
 
 ## 🚀 Tecnologias
 - HTML
